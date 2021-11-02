@@ -5,8 +5,10 @@ repo: upptime-trial # The name of this repository
 sites:
   - name: Cloudways Hakai.org
     url: https://wordpress-675610-2219525.cloudwaysapps.com/
+    maxResponseTime: 5000 # 5 seconds
   - name: Cloudways Hakai Magazine
     url: https://wordpress-673693-2211523.cloudwaysapps.com/
+    maxResponseTime: 5000 # 5 seconds
     
 assignees: # Users to assign downtime issues (optional)
   - steviewanders
@@ -17,6 +19,7 @@ status-website:
 #   cname: demo.upptime.js.org
   baseUrl: /upptime-trial
   logoUrl: https://github.com/HakaiInstitute/upptime-trial/blob/master/hakai-logo.png
+  theme: dark
   name: Hakai Instite Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/HakaiInstitute/upptime-trial). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
