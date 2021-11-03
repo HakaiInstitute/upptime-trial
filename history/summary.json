@@ -10,12 +10,32 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 306,
-    "timeDay": 306,
-    "timeWeek": 306,
-    "timeMonth": 306,
-    "timeYear": 306,
+    "time": 308,
+    "timeDay": 321,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Cloudways Hakai.org Wordpress Login",
+    "url": "https://wordpress-675610-2219525.cloudwaysapps.com/hakaiinstitutelogin/\"",
+    "icon": "https://favicons.githubusercontent.com/wordpress-675610-2219525.cloudwaysapps.com",
+    "slug": "cloudways-hakai-org-wordpress-login",
+    "status": "up",
+    "uptime": "12.70%",
+    "uptimeDay": "12.70%",
+    "uptimeWeek": "12.70%",
+    "uptimeMonth": "12.70%",
+    "uptimeYear": "12.70%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2021-11-03": 0
+    }
   },
   {
     "name": "Cloudways Hakai Magazine",
@@ -28,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 381,
-    "timeDay": 381,
-    "timeWeek": 381,
-    "timeMonth": 381,
-    "timeYear": 381,
+    "time": 375,
+    "timeDay": 337,
+    "timeWeek": 375,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {}
   }
 ]
