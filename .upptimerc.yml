@@ -2,32 +2,34 @@ owner: HakaiInstitute # Your GitHub organization or username, where this reposit
 repo: upptime-trial # The name of this repository
 
 sites:
-  - name: Cloudways Hakai.org
+  - name: Cloudways Hakai.org Homepage
     url: https://wordpress-675610-2219525.cloudwaysapps.com/
     maxResponseTime: 5000 # 5 seconds
 
-  - name: Cloudways Hakai.org Wordpress Login
+  - name: Cloudways Hakai.org Wordpress Login Page
     url: https://wordpress-675610-2219525.cloudwaysapps.com/hakaiinstitutelogin/"
     method: GET
-# method: POST
+    # method: POST
     # headers:
     #   - "Content-Type: application/x-www-form-urlencoded"
     # body: '{ "log": $WP_UPTIME_LOGIN_TEST_USERNAME, "pwd": $WP_UPTIME_LOGIN_TEST_PASSWORD, "wp-submit": "Log In", "redirect_to": "https://wordpress-675610-2219525.cloudwaysapps.com/wp-admin" }'
     maxResponseTime: 5000 # 5 seconds
 
-
-
-  - name: Cloudways Hakai Magazine
+  - name: Cloudways Hakai Magazine Homepage
     url: https://wordpress-673693-2211523.cloudwaysapps.com/
     maxResponseTime: 5000 # 5 seconds
-    
+
+  - name: Cloudways Hakai Magazine Wordpress Login Page
+    url: https://wordpress-673693-2211523.cloudwaysapps.com/hakaimagazinelogin/
+    maxResponseTime: 5000 # 5 seconds
+
 assignees: # Users to assign downtime issues (optional)
   - steviewanders
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-#   cname: demo.upptime.js.org
+  #   cname: demo.upptime.js.org
   baseUrl: /upptime-trial
   logoUrl: https://github.com/HakaiInstitute/upptime-trial/blob/master/hakai-logo.png
   theme: ocean
@@ -39,6 +41,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
