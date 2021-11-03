@@ -11,7 +11,7 @@ sites:
     method: POST
     headers:
       - "Content-Type: application/json"
-    body: '{ "log": WP_UPTIME_LOGIN_TEST_USERNAME, "pwd": $WP_UPTIME_LOGIN_TEST_PASSWORD, "wp-submit": "Log In", "redirect_to": "https://wordpress-675610-2219525.cloudwaysapps.com/wp-admin" }'
+    body: '{ "log": $WP_UPTIME_LOGIN_TEST_USERNAME, "pwd": $WP_UPTIME_LOGIN_TEST_PASSWORD, "wp-submit": "Log In", "redirect_to": "https://wordpress-675610-2219525.cloudwaysapps.com/wp-admin" }'
     maxResponseTime: 5000 # 5 seconds
 
 
