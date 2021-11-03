@@ -8,10 +8,11 @@ sites:
 
   - name: Cloudways Hakai.org Wordpress Login
     url: https://wordpress-675610-2219525.cloudwaysapps.com/hakaiinstitutelogin/"
-    method: POST
-    headers:
-      - "Content-Type: application/x-www-form-urlencoded"
-    body: '{ "log": $WP_UPTIME_LOGIN_TEST_USERNAME, "pwd": $WP_UPTIME_LOGIN_TEST_PASSWORD, "wp-submit": "Log In", "redirect_to": "https://wordpress-675610-2219525.cloudwaysapps.com/wp-admin" }'
+    method: GET
+# method: POST
+    # headers:
+    #   - "Content-Type: application/x-www-form-urlencoded"
+    # body: '{ "log": $WP_UPTIME_LOGIN_TEST_USERNAME, "pwd": $WP_UPTIME_LOGIN_TEST_PASSWORD, "wp-submit": "Log In", "redirect_to": "https://wordpress-675610-2219525.cloudwaysapps.com/wp-admin" }'
     maxResponseTime: 5000 # 5 seconds
 
 
