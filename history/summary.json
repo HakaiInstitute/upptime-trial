@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/hakai.org",
     "slug": "hakai-org-homepage",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.78%",
-    "uptimeYear": "99.78%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 370,
     "timeDay": 356,
     "timeWeek": 369,
@@ -45,9 +45,9 @@
     "url": "https://wordpress-673693-2211523.cloudwaysapps.com/",
     "icon": "https://favicons.githubusercontent.com/wordpress-673693-2211523.cloudwaysapps.com",
     "slug": "cloudways-hakai-magazine-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,16 +56,18 @@
     "timeWeek": 354,
     "timeMonth": 339,
     "timeYear": 339,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 0
+    }
   },
   {
     "name": "Cloudways Hakai Magazine Wordpress Login Page",
     "url": "https://wordpress-673693-2211523.cloudwaysapps.com/hakaimagazinelogin/",
     "icon": "https://favicons.githubusercontent.com/wordpress-673693-2211523.cloudwaysapps.com",
     "slug": "cloudways-hakai-magazine-wordpress-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -74,6 +76,8 @@
     "timeWeek": 61,
     "timeMonth": 63,
     "timeYear": 63,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-18": 0
+    }
   }
 ]
