@@ -15,13 +15,13 @@ sites:
     # body: '{ "log": $WP_UPTIME_LOGIN_TEST_USERNAME, "pwd": $WP_UPTIME_LOGIN_TEST_PASSWORD, "wp-submit": "Log In", "redirect_to": "https://wordpress-675610-2219525.cloudwaysapps.com/wp-admin" }'
     maxResponseTime: 5000 # 5 seconds
 
-  - name: Cloudways Hakai Magazine Homepage
-    url: https://wordpress-673693-2211523.cloudwaysapps.com/
-    maxResponseTime: 5000 # 5 seconds
+  # - name: Cloudways Hakai Magazine Homepage
+  #   url: https://wordpress-673693-2211523.cloudwaysapps.com/
+  #   maxResponseTime: 5000 # 5 seconds
 
-  - name: Cloudways Hakai Magazine Wordpress Login Page
-    url: https://wordpress-673693-2211523.cloudwaysapps.com/hakaimagazinelogin/
-    maxResponseTime: 5000 # 5 seconds
+  # - name: Cloudways Hakai Magazine Wordpress Login Page
+  #   url: https://wordpress-673693-2211523.cloudwaysapps.com/hakaimagazinelogin/
+  #   maxResponseTime: 5000 # 5 seconds
 
 assignees: # Users to assign downtime issues (optional)
   - steviewanders
