@@ -47,10 +47,10 @@
     "url": "https://www.hakaimagazine.com/",
     "icon": "https://favicons.githubusercontent.com/www.hakaimagazine.com",
     "slug": "cloudways-hakai-magazine-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "99.72%",
     "time": 462,
@@ -59,6 +59,7 @@
     "timeMonth": 505,
     "timeYear": 462,
     "dailyMinutesDown": {
+      "2021-12-14": 1,
       "2021-11-19": 42,
       "2021-11-18": 60
     }
@@ -68,7 +69,7 @@
     "url": "https://www.hakaimagazine.com/hakaimagazinelogin/",
     "icon": "https://favicons.githubusercontent.com/www.hakaimagazine.com",
     "slug": "cloudways-hakai-magazine-wordpress-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.86%",
@@ -80,6 +81,7 @@
     "timeMonth": 99,
     "timeYear": 91,
     "dailyMinutesDown": {
+      "2021-12-14": 0,
       "2021-12-12": 14,
       "2021-11-19": 42,
       "2021-11-18": 60
