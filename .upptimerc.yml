@@ -22,6 +22,14 @@ sites:
   - name: Hakai Magazine Wordpress Login Page
     url: https://www.hakaimagazine.com/hakaimagazinelogin/
     maxResponseTime: 5000 # 5 seconds
+    
+  - name: CIOOS Pacific Homepage
+    url: https://cioospacific.ca/
+    maxResponseTime: 5000 # 5 seconds
+    
+  - name: CIOOS Pacific Wordpress Login Page
+    url: https://cioospacific.ca/wp-admin/
+    maxResponseTime: 5000 # 5 seconds
 
 assignees: # Users to assign downtime issues (optional)
   - steviewanders
