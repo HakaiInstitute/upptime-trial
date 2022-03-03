@@ -1,7 +1,7 @@
 url: https://cioospacific.ca/wp-admin/
-status: up
+status: degraded
 code: 200
-responseTime: 465
-lastUpdated: 2022-03-02T23:01:55.151Z
+responseTime: 6220
+lastUpdated: 2022-03-03T10:22:46.742Z
 startTime: Thu Feb 10 2022 21:07:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
