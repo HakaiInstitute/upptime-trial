@@ -31,11 +31,19 @@ sites:
     url: https://cioospacific.ca/wp-admin/
     maxResponseTime: 5000 # 5 seconds
 
-  - name: ICO Production Homepage
+  - name: Marine Heatwaves Production
+    url: https://hakaiinstitute.github.io/ssta_images/dist/
+    maxResponseTime: 5000 # 5 seconds
+
+  - name: Marine Heatwaves Production Detecting Observable Runtime Errors
+    url: https://hakaiinstitute.github.io/ssta_images/dist/
+    __dangerous__body_down: "RuntimeError"
+
+  - name: ICO Production
     url: https://ico.hakai.org/
     maxResponseTime: 5000 # 5 seconds
 
-  - name: ICO Staging Homepage
+  - name: ICO Staging
     url: https://test-ico.hakai.org/
     maxResponseTime: 5000 # 5 seconds
 
