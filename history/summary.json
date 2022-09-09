@@ -197,19 +197,19 @@
     "url": "https://test-ico.hakai.org/",
     "icon": "https://favicons.githubusercontent.com/test-ico.hakai.org",
     "slug": "ico-staging",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 371,
-    "timeDay": 457,
-    "timeWeek": 421,
-    "timeMonth": 409,
+    "timeDay": 400,
+    "timeWeek": 411,
+    "timeMonth": 407,
     "timeYear": 371,
     "dailyMinutesDown": {
-      "2022-09-09": 1
+      "2022-09-09": 11
     }
   },
   {
@@ -235,19 +235,19 @@
     "url": "https://test-ico.hakai.org/",
     "icon": "https://favicons.githubusercontent.com/test-ico.hakai.org",
     "slug": "ico-staging-detecting-observable-runtime-errors",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 26,
-    "timeDay": 9,
+    "timeDay": 13,
     "timeWeek": 18,
     "timeMonth": 17,
     "timeYear": 26,
     "dailyMinutesDown": {
-      "2022-09-09": 0
+      "2022-09-09": 10
     }
   }
 ]
