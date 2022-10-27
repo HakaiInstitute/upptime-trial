@@ -61,6 +61,12 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+  - name: Hakai CKAN Catalogue Sitemap
+    url: https://catalogue.hakai.org/sitemap/sitemap-1.xml
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
   - name: MaPP CKAN Catalogue
     url: https://metadata.mappocean.org/
     maxResponseTime: 5000 # 5 seconds
@@ -68,6 +74,19 @@ sites:
       - "Authorization: Basic $MAPP_UPTIME_CKAN_BASIC_AUTH"
     assignees: # Users to assign downtime issues (optional)
       - fostermh
+
+  - name: IYS CKAN Catalogue
+    url: https://iys.hakai.org/dataset
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
+  - name: IYS CKAN Catalogue Sitemap
+    url: https://iys.hakai.org/sitemap/sitemap-1.xml
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
 
 assignees: # Users to assign downtime issues (optional)
   - steviewanders
