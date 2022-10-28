@@ -291,19 +291,19 @@
     "url": "https://metadata.mappocean.org/",
     "icon": "https://icons.duckduckgo.com/ip3/metadata.mappocean.org.ico",
     "slug": "ma-pp-ckan-catalogue",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 655,
-    "timeDay": 540,
-    "timeWeek": 655,
-    "timeMonth": 655,
-    "timeYear": 655,
+    "status": "up",
+    "uptime": "99.62%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
+    "time": 753,
+    "timeDay": 742,
+    "timeWeek": 753,
+    "timeMonth": 753,
+    "timeYear": 753,
     "dailyMinutesDown": {
-      "2022-10-28": 0
+      "2022-10-28": 7
     }
   },
   {
