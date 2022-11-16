@@ -306,19 +306,19 @@
     "url": "https://iys.hakai.org/dataset",
     "icon": "https://icons.duckduckgo.com/ip3/iys.hakai.org.ico",
     "slug": "iys-ckan-catalogue",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 740,
-    "timeWeek": 761,
-    "timeMonth": 746,
-    "timeYear": 746,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 758,
+    "timeDay": 865,
+    "timeWeek": 790,
+    "timeMonth": 758,
+    "timeYear": 758,
     "dailyMinutesDown": {
-      "2022-11-16": 1
+      "2022-11-16": 7
     }
   },
   {
