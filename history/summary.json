@@ -244,9 +244,9 @@
     "url": "https://catalogue.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "hakai-ckan-catalogue",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -255,7 +255,9 @@
     "timeWeek": 367,
     "timeMonth": 438,
     "timeYear": 422,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-26": 0
+    }
   },
   {
     "name": "Hakai CKAN Catalogue Sitemap",
@@ -263,18 +265,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "hakai-ckan-catalogue-sitemap",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.15%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.97%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.97%",
     "time": 67,
     "timeDay": 71,
     "timeWeek": 68,
     "timeMonth": 68,
     "timeYear": 67,
     "dailyMinutesDown": {
-      "2023-01-26": 10,
+      "2023-01-26": 21,
       "2023-01-25": 17
     }
   },
