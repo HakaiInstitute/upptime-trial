@@ -323,18 +323,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/iys.hakai.org.ico",
     "slug": "iys-ckan-catalogue-sitemap",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 54,
     "timeDay": 52,
     "timeWeek": 68,
     "timeMonth": 58,
     "timeYear": 54,
-    "dailyMinutesDown": {
-      "2023-01-30": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
