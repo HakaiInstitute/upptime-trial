@@ -164,19 +164,19 @@
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 1169,
-    "timeDay": 1979,
-    "timeWeek": 1411,
-    "timeMonth": 1218,
+    "timeDay": 1473,
+    "timeWeek": 1356,
+    "timeMonth": 1209,
     "timeYear": 1169,
     "dailyMinutesDown": {
-      "2023-03-02": 1
+      "2023-03-02": 7
     }
   },
   {
@@ -186,9 +186,9 @@
     "slug": "ico-staging",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 378,
     "timeDay": 403,
@@ -196,7 +196,7 @@
     "timeMonth": 391,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2023-03-02": 1
+      "2023-03-02": 7
     }
   },
   {
@@ -204,19 +204,19 @@
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production-detecting-observable-runtime-errors",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 26,
-    "timeDay": 12,
-    "timeWeek": 10,
-    "timeMonth": 17,
-    "timeYear": 26,
+    "time": 28,
+    "timeDay": 307,
+    "timeWeek": 84,
+    "timeMonth": 37,
+    "timeYear": 28,
     "dailyMinutesDown": {
-      "2023-03-02": 1
+      "2023-03-02": 7
     }
   },
   {
@@ -226,9 +226,9 @@
     "slug": "ico-staging-detecting-observable-runtime-errors",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 19,
     "timeDay": 10,
@@ -236,7 +236,7 @@
     "timeMonth": 11,
     "timeYear": 19,
     "dailyMinutesDown": {
-      "2023-03-02": 0
+      "2023-03-02": 7
     }
   },
   {
