@@ -43,16 +43,8 @@ sites:
     url: https://ico.hakai.org/
     maxResponseTime: 5000 # 5 seconds
 
-  - name: ICO Staging
-    url: https://test-ico.hakai.org/
-    maxResponseTime: 5000 # 5 seconds
-
   - name: ICO Production Detecting Observable Runtime Errors
     url: https://ico.hakai.org/
-    __dangerous__body_down: "RuntimeError"
-
-  - name: ICO Staging Detecting Observable Runtime Errors
-    url: https://test-ico.hakai.org/
     __dangerous__body_down: "RuntimeError"
 
   - name: Hakai CKAN Catalogue
