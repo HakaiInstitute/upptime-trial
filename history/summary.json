@@ -117,7 +117,7 @@
     "timeDay": 1045,
     "timeWeek": 951,
     "timeMonth": 966,
-    "timeYear": 751,
+    "timeYear": 728,
     "dailyMinutesDown": {
       "2022-10-11": 28,
       "2022-09-04": 61
@@ -164,10 +164,10 @@
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1169,
@@ -175,17 +175,19 @@
     "timeWeek": 1411,
     "timeMonth": 1218,
     "timeYear": 1169,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-02": 1
+    }
   },
   {
     "name": "ICO Staging",
     "url": "https://test-ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/test-ico.hakai.org.ico",
     "slug": "ico-staging",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 378,
@@ -193,17 +195,19 @@
     "timeWeek": 372,
     "timeMonth": 391,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-02": 1
+    }
   },
   {
     "name": "ICO Production Detecting Observable Runtime Errors",
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production-detecting-observable-runtime-errors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 26,
@@ -211,16 +215,18 @@
     "timeWeek": 10,
     "timeMonth": 17,
     "timeYear": 26,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-02": 1
+    }
   },
   {
     "name": "ICO Staging Detecting Observable Runtime Errors",
     "url": "https://test-ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/test-ico.hakai.org.ico",
     "slug": "ico-staging-detecting-observable-runtime-errors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -229,7 +235,9 @@
     "timeWeek": 11,
     "timeMonth": 11,
     "timeYear": 19,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-03-02": 0
+    }
   },
   {
     "name": "Hakai CKAN Catalogue",
