@@ -158,10 +158,10 @@
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1074,
@@ -169,16 +169,18 @@
     "timeWeek": 760,
     "timeMonth": 729,
     "timeYear": 1072,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 1
+    }
   },
   {
     "name": "ICO Production Detecting Observable Runtime Errors",
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production-detecting-observable-runtime-errors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -187,7 +189,9 @@
     "timeWeek": 500,
     "timeMonth": 458,
     "timeYear": 127,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   },
   {
     "name": "Hakai CKAN Catalogue",
