@@ -13,7 +13,7 @@
     "time": 306,
     "timeDay": 418,
     "timeWeek": 329,
-    "timeMonth": 332,
+    "timeMonth": 327,
     "timeYear": 305,
     "dailyMinutesDown": {
       "2022-09-26": 29
@@ -33,7 +33,7 @@
     "time": 210,
     "timeDay": 220,
     "timeWeek": 211,
-    "timeMonth": 191,
+    "timeMonth": 190,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2022-09-26": 28
@@ -53,7 +53,7 @@
     "time": 595,
     "timeDay": 752,
     "timeWeek": 639,
-    "timeMonth": 622,
+    "timeMonth": 621,
     "timeYear": 595,
     "dailyMinutesDown": {}
   },
@@ -89,7 +89,7 @@
     "time": 297,
     "timeDay": 161,
     "timeWeek": 274,
-    "timeMonth": 282,
+    "timeMonth": 297,
     "timeYear": 311,
     "dailyMinutesDown": {
       "2022-10-11": 28,
@@ -110,7 +110,7 @@
     "time": 775,
     "timeDay": 980,
     "timeWeek": 950,
-    "timeMonth": 972,
+    "timeMonth": 971,
     "timeYear": 728,
     "dailyMinutesDown": {
       "2022-10-11": 28,
@@ -160,14 +160,14 @@
     "slug": "ico-production",
     "status": "up",
     "uptime": "99.38%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "3.59%",
     "uptimeWeek": "64.05%",
     "uptimeMonth": "91.73%",
     "uptimeYear": "99.31%",
     "time": 1074,
     "timeDay": 789,
     "timeWeek": 735,
-    "timeMonth": 734,
+    "timeMonth": 732,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2023-05-30": 1398,
@@ -182,14 +182,14 @@
     "slug": "ico-production-detecting-observable-runtime-errors",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "0.03%",
+    "uptimeDay": "3.59%",
     "uptimeWeek": "64.05%",
     "uptimeMonth": "91.73%",
     "uptimeYear": "99.31%",
     "time": 108,
     "timeDay": 622,
     "timeWeek": 500,
-    "timeMonth": 468,
+    "timeMonth": 465,
     "timeYear": 129,
     "dailyMinutesDown": {
       "2023-05-30": 1398,
@@ -211,7 +211,7 @@
     "time": 486,
     "timeDay": 614,
     "timeWeek": 770,
-    "timeMonth": 618,
+    "timeMonth": 614,
     "timeYear": 486,
     "dailyMinutesDown": {
       "2023-05-24": 20,
@@ -254,7 +254,7 @@
     "time": 856,
     "timeDay": 695,
     "timeWeek": 875,
-    "timeMonth": 912,
+    "timeMonth": 936,
     "timeYear": 856,
     "dailyMinutesDown": {
       "2023-01-12": 33,
@@ -275,7 +275,7 @@
     "time": 815,
     "timeDay": 678,
     "timeWeek": 893,
-    "timeMonth": 870,
+    "timeMonth": 868,
     "timeYear": 815,
     "dailyMinutesDown": {}
   },
