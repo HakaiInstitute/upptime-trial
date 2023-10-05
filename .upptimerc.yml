@@ -79,6 +79,13 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+  - name: Algae Explorer Public Website
+    url: https://algaeexplorer.ca/
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - steviewanders
+    
+
 
 assignees: # Users to assign downtime issues (optional)
   - steviewanders
