@@ -257,19 +257,19 @@
     "url": "https://iys.hakai.org/dataset",
     "icon": "https://icons.duckduckgo.com/ip3/iys.hakai.org.ico",
     "slug": "iys-ckan-catalogue",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 821,
-    "timeDay": 604,
-    "timeWeek": 674,
+    "timeDay": 663,
+    "timeWeek": 686,
     "timeMonth": 766,
     "timeYear": 824,
     "dailyMinutesDown": {
-      "2023-11-10": 1
+      "2023-11-10": 7
     }
   },
   {
@@ -277,19 +277,19 @@
     "url": "https://iys.hakai.org/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/iys.hakai.org.ico",
     "slug": "iys-ckan-catalogue-sitemap",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 218,
-    "timeWeek": 90,
-    "timeMonth": 69,
+    "timeDay": 162,
+    "timeWeek": 86,
+    "timeMonth": 68,
     "timeYear": 58,
     "dailyMinutesDown": {
-      "2023-11-10": 1
+      "2023-11-10": 7
     }
   },
   {
