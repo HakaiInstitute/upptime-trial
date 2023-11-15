@@ -275,19 +275,19 @@
     "url": "https://iys.hakai.org/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/iys.hakai.org.ico",
     "slug": "iys-ckan-catalogue-sitemap",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "89.64%",
+    "uptimeWeek": "98.52%",
+    "uptimeMonth": "99.66%",
+    "uptimeYear": "99.97%",
     "time": 58,
-    "timeDay": 88,
-    "timeWeek": 90,
-    "timeMonth": 67,
-    "timeYear": 59,
+    "timeDay": 70,
+    "timeWeek": 85,
+    "timeMonth": 66,
+    "timeYear": 58,
     "dailyMinutesDown": {
-      "2023-11-15": 1
+      "2023-11-15": 149
     }
   },
   {
