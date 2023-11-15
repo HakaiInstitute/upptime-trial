@@ -275,18 +275,20 @@
     "url": "https://iys.hakai.org/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/iys.hakai.org.ico",
     "slug": "iys-ckan-catalogue-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 58,
-    "timeDay": 104,
-    "timeWeek": 92,
+    "timeDay": 88,
+    "timeWeek": 90,
     "timeMonth": 67,
-    "timeYear": 58,
-    "dailyMinutesDown": {}
+    "timeYear": 59,
+    "dailyMinutesDown": {
+      "2023-11-15": 1
+    }
   },
   {
     "name": "Algae Explorer Public Website",
