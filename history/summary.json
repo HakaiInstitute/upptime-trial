@@ -76,18 +76,20 @@
     "url": "https://cioospacific.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-homepage",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 150,
-    "timeWeek": 244,
-    "timeMonth": 223,
-    "timeYear": 301,
-    "dailyMinutesDown": {}
+    "time": 310,
+    "timeDay": 2940,
+    "timeWeek": 930,
+    "timeMonth": 395,
+    "timeYear": 316,
+    "dailyMinutesDown": {
+      "2024-01-10": 1
+    }
   },
   {
     "name": "CIOOS Pacific Wordpress Login Page",
@@ -150,9 +152,9 @@
     "slug": "ico-production",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 939,
     "timeDay": 924,
@@ -160,7 +162,6 @@
     "timeMonth": 748,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2024-01-10": 5,
       "2023-05-30": 1398,
       "2023-05-29": 1440,
       "2023-05-28": 786
@@ -173,9 +174,9 @@
     "slug": "ico-production-detecting-observable-runtime-errors",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
     "time": 338,
     "timeDay": 541,
@@ -183,7 +184,6 @@
     "timeMonth": 487,
     "timeYear": 450,
     "dailyMinutesDown": {
-      "2024-01-10": 4,
       "2023-05-30": 1398,
       "2023-05-29": 1440,
       "2023-05-28": 785
