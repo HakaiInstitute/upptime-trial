@@ -78,9 +78,9 @@
     "slug": "cioos-pacific-homepage",
     "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 360,
     "timeDay": 7796,
@@ -88,7 +88,7 @@
     "timeMonth": 1116,
     "timeYear": 382,
     "dailyMinutesDown": {
-      "2024-01-10": 1
+      "2024-01-10": 7
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "https://cioospacific.ca/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress-login-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 768,
-    "timeDay": 587,
-    "timeWeek": 795,
-    "timeMonth": 590,
-    "timeYear": 807,
+    "time": 771,
+    "timeDay": 1187,
+    "timeWeek": 919,
+    "timeMonth": 627,
+    "timeYear": 810,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 6
     }
   },
   {
