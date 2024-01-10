@@ -4,9 +4,9 @@
     "url": "https://hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/hakai.org.ico",
     "slug": "hakai-org-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 875,
     "timeMonth": 458,
     "timeYear": 325,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   },
   {
     "name": "Hakai.org Wordpress Login Page",
@@ -40,19 +42,19 @@
     "url": "https://www.hakaimagazine.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hakaimagazine.com.ico",
     "slug": "hakai-magazine-homepage",
-    "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.43%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 628,
-    "timeDay": 5490,
-    "timeWeek": 1865,
-    "timeMonth": 951,
-    "timeYear": 628,
+    "timeDay": 3958,
+    "timeWeek": 1757,
+    "timeMonth": 949,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-01-10": 0
+      "2024-01-10": 8
     }
   },
   {
