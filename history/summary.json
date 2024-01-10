@@ -76,19 +76,19 @@
     "url": "https://cioospacific.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-homepage",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 310,
-    "timeDay": 2940,
-    "timeWeek": 930,
-    "timeMonth": 395,
-    "timeYear": 316,
+    "time": 318,
+    "timeDay": 3465,
+    "timeWeek": 1328,
+    "timeMonth": 520,
+    "timeYear": 327,
     "dailyMinutesDown": {
-      "2024-01-10": 1
+      "2024-01-10": 6
     }
   },
   {
