@@ -40,18 +40,20 @@
     "url": "https://www.hakaimagazine.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hakaimagazine.com.ico",
     "slug": "hakai-magazine-homepage",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 628,
-    "timeDay": 3958,
-    "timeWeek": 1757,
-    "timeMonth": 949,
-    "timeYear": 629,
-    "dailyMinutesDown": {}
+    "time": 652,
+    "timeDay": 6004,
+    "timeWeek": 2796,
+    "timeMonth": 1279,
+    "timeYear": 660,
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   },
   {
     "name": "Hakai Magazine Wordpress Login Page",
@@ -78,18 +80,16 @@
     "slug": "cioos-pacific-homepage",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.55%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 318,
     "timeDay": 3465,
     "timeWeek": 1328,
     "timeMonth": 520,
     "timeYear": 327,
-    "dailyMinutesDown": {
-      "2024-01-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CIOOS Pacific Wordpress Login Page",
