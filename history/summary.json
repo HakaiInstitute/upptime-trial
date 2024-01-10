@@ -241,18 +241,19 @@
     "url": "https://metadata.mappocean.org/",
     "icon": "https://icons.duckduckgo.com/ip3/metadata.mappocean.org.ico",
     "slug": "ma-pp-ckan-catalogue",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 881,
-    "timeDay": 8400,
-    "timeWeek": 3286,
-    "timeMonth": 1406,
-    "timeYear": 901,
+    "time": 906,
+    "timeDay": 9330,
+    "timeWeek": 4169,
+    "timeMonth": 1721,
+    "timeYear": 931,
     "dailyMinutesDown": {
+      "2024-01-10": 1,
       "2023-01-12": 33,
       "2023-01-11": 10
     }
@@ -264,9 +265,9 @@
     "slug": "iys-ckan-catalogue",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 977,
     "timeDay": 6187,
@@ -274,7 +275,6 @@
     "timeMonth": 2108,
     "timeYear": 1028,
     "dailyMinutesDown": {
-      "2024-01-10": 5,
       "2023-12-20": 20
     }
   },
