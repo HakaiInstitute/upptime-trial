@@ -76,9 +76,9 @@
     "url": "https://cioospacific.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -88,6 +88,7 @@
     "timeMonth": 1174,
     "timeYear": 388,
     "dailyMinutesDown": {
+      "2024-01-29": 0,
       "2024-01-11": 23
     }
   },
