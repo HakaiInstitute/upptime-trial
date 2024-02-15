@@ -243,18 +243,20 @@
     "url": "https://metadata.mappocean.org/",
     "icon": "https://icons.duckduckgo.com/ip3/metadata.mappocean.org.ico",
     "slug": "ma-pp-ckan-catalogue",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 891,
-    "timeDay": 861,
-    "timeWeek": 742,
-    "timeMonth": 724,
-    "timeYear": 909,
-    "dailyMinutesDown": {}
+    "time": 936,
+    "timeDay": 11832,
+    "timeWeek": 3499,
+    "timeMonth": 1413,
+    "timeYear": 968,
+    "dailyMinutesDown": {
+      "2024-02-15": 0
+    }
   },
   {
     "name": "IYS CKAN Catalogue",
