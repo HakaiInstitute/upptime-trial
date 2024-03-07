@@ -4,19 +4,19 @@
     "url": "https://hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/hakai.org.ico",
     "slug": "hakai-org-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 410,
-    "timeWeek": 350,
-    "timeMonth": 327,
-    "timeYear": 342,
+    "timeDay": 354,
+    "timeWeek": 338,
+    "timeMonth": 324,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2024-03-07": 0
+      "2024-03-07": 7
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://hakai.org/hakaiinstitutelogin/\"",
     "icon": "https://icons.duckduckgo.com/ip3/hakai.org.ico",
     "slug": "hakai-org-wordpress-login-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 136,
-    "timeWeek": 220,
-    "timeMonth": 366,
-    "timeYear": 225,
+    "time": 217,
+    "timeDay": 234,
+    "timeWeek": 244,
+    "timeMonth": 368,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2024-03-07": 0
+      "2024-03-07": 7
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "https://cioospacific.ca/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress-login-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 275,
-    "timeWeek": 680,
-    "timeMonth": 764,
-    "timeYear": 783,
+    "time": 773,
+    "timeDay": 627,
+    "timeWeek": 752,
+    "timeMonth": 782,
+    "timeYear": 785,
     "dailyMinutesDown": {
-      "2024-03-07": 0
+      "2024-03-07": 7
     }
   },
   {
