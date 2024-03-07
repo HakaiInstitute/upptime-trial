@@ -4,36 +4,40 @@
     "url": "https://hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/hakai.org.ico",
     "slug": "hakai-org-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 330,
-    "timeDay": 401,
-    "timeWeek": 340,
-    "timeMonth": 324,
-    "timeYear": 341,
-    "dailyMinutesDown": {}
+    "timeDay": 410,
+    "timeWeek": 350,
+    "timeMonth": 327,
+    "timeYear": 342,
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "Hakai.org Wordpress Login Page",
     "url": "https://hakai.org/hakaiinstitutelogin/\"",
     "icon": "https://icons.duckduckgo.com/ip3/hakai.org.ico",
     "slug": "hakai-org-wordpress-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 216,
-    "timeDay": 190,
-    "timeWeek": 240,
-    "timeMonth": 376,
+    "timeDay": 136,
+    "timeWeek": 220,
+    "timeMonth": 366,
     "timeYear": 225,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "Hakai Magazine Homepage",
@@ -96,18 +100,20 @@
     "url": "https://cioospacific.ca/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 527,
-    "timeWeek": 773,
-    "timeMonth": 789,
-    "timeYear": 785,
-    "dailyMinutesDown": {}
+    "time": 772,
+    "timeDay": 275,
+    "timeWeek": 680,
+    "timeMonth": 764,
+    "timeYear": 783,
+    "dailyMinutesDown": {
+      "2024-03-07": 0
+    }
   },
   {
     "name": "Marine Heatwaves Production",
