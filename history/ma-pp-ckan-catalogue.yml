@@ -1,7 +1,7 @@
 url: https://metadata.mappocean.org/
-status: up
-code: 200
-responseTime: 1152
-lastUpdated: 2024-05-09T23:02:02.742Z
+status: down
+code: 502
+responseTime: 508
+lastUpdated: 2024-05-10T20:50:22.862Z
 startTime: 2022-10-27T17:10:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
