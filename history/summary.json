@@ -58,18 +58,20 @@
     "url": "https://www.hakaimagazine.com/hakaimagazinelogin/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hakaimagazine.com.ico",
     "slug": "hakai-magazine-wordpress-login-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 125,
-    "timeWeek": 81,
-    "timeMonth": 81,
+    "timeDay": 79,
+    "timeWeek": 75,
+    "timeMonth": 80,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-20": 0
+    }
   },
   {
     "name": "CIOOS Pacific Homepage",
