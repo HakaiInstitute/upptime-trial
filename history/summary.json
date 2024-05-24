@@ -103,8 +103,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 802,
-    "timeDay": 1107,
-    "timeWeek": 942,
+    "timeDay": 1061,
+    "timeWeek": 929,
     "timeMonth": 781,
     "timeYear": 755,
     "dailyMinutesDown": {}
@@ -270,18 +270,19 @@
     "url": "https://iys.hakai.org/dataset",
     "icon": "https://icons.duckduckgo.com/ip3/iys.hakai.org.ico",
     "slug": "iys-ckan-catalogue",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1295,
+    "time": 1296,
     "timeDay": 1608,
     "timeWeek": 1724,
     "timeMonth": 1948,
     "timeYear": 1434,
     "dailyMinutesDown": {
+      "2024-05-24": 1,
       "2023-12-20": 20
     }
   },
@@ -290,10 +291,10 @@
     "url": "https://iys.hakai.org/sitemap/sitemap-1.xml",
     "icon": "https://icons.duckduckgo.com/ip3/iys.hakai.org.ico",
     "slug": "iys-ckan-catalogue-sitemap",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 74,
@@ -302,6 +303,7 @@
     "timeMonth": 112,
     "timeYear": 79,
     "dailyMinutesDown": {
+      "2024-05-24": 1,
       "2023-12-20": 20,
       "2023-11-15": 149
     }
