@@ -67,26 +67,12 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
-  - name: IYS CKAN Catalogue
-    url: https://iys.hakai.org/dataset
-    maxResponseTime: 5000 # 5 seconds
-    assignees: # Users to assign downtime issues (optional)
-      - fostermh
-
-  - name: IYS CKAN Catalogue Sitemap
-    url: https://iys.hakai.org/sitemap/sitemap-1.xml
-    maxResponseTime: 5000 # 5 seconds
-    assignees: # Users to assign downtime issues (optional)
-      - fostermh
-
   - name: Algae Explorer Public Website
     url: https://algaeexplorer.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - steviewanders
     
-
-
 assignees: # Users to assign downtime issues (optional)
   - steviewanders
 
