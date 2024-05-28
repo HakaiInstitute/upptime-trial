@@ -96,19 +96,19 @@
     "url": "https://cioospacific.ca/wp-admin/",
     "icon": "https://icons.duckduckgo.com/ip3/cioospacific.ca.ico",
     "slug": "cioos-pacific-wordpress-login-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 799,
-    "timeDay": 1117,
-    "timeWeek": 813,
-    "timeMonth": 767,
-    "timeYear": 753,
+    "time": 798,
+    "timeDay": 801,
+    "timeWeek": 780,
+    "timeMonth": 760,
+    "timeYear": 752,
     "dailyMinutesDown": {
-      "2024-05-28": 0
+      "2024-05-28": 20
     }
   },
   {
