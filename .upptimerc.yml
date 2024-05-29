@@ -59,6 +59,10 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+  - name: Hakai ERDDAP
+    url: https://catalogue.hakai.org/erddap/index.html
+    maxResponseTime: 5000 # 5 seconds
+
   - name: MaPP CKAN Catalogue
     url: https://metadata.mappocean.org/
     maxResponseTime: 5000 # 5 seconds
