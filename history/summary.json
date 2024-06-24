@@ -152,19 +152,19 @@
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.68%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 867,
-    "timeDay": 14383,
-    "timeWeek": 4236,
-    "timeMonth": 1629,
+    "timeDay": 9846,
+    "timeWeek": 3851,
+    "timeMonth": 1604,
     "timeYear": 890,
     "dailyMinutesDown": {
-      "2024-06-24": 1
+      "2024-06-24": 5
     }
   },
   {
