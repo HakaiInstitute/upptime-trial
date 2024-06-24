@@ -152,18 +152,20 @@
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 814,
-    "timeDay": 720,
-    "timeWeek": 835,
-    "timeMonth": 828,
-    "timeYear": 817,
-    "dailyMinutesDown": {}
+    "time": 867,
+    "timeDay": 14383,
+    "timeWeek": 4236,
+    "timeMonth": 1629,
+    "timeYear": 890,
+    "dailyMinutesDown": {
+      "2024-06-24": 1
+    }
   },
   {
     "name": "ICO Production Detecting Observable Runtime Errors",
