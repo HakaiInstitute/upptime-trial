@@ -85,7 +85,7 @@
     "time": 345,
     "timeDay": 149,
     "timeWeek": 189,
-    "timeMonth": 249,
+    "timeMonth": 243,
     "timeYear": 362,
     "dailyMinutesDown": {
       "2024-01-11": 23
@@ -244,18 +244,20 @@
     "url": "https://catalogue.hakai.org/erddap/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/catalogue.hakai.org.ico",
     "slug": "hakai-erddap",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 54,
-    "timeDay": 13,
-    "timeWeek": 34,
-    "timeMonth": 54,
-    "timeYear": 54,
-    "dailyMinutesDown": {}
+    "time": 53,
+    "timeDay": 19,
+    "timeWeek": 33,
+    "timeMonth": 53,
+    "timeYear": 53,
+    "dailyMinutesDown": {
+      "2024-06-25": 1
+    }
   },
   {
     "name": "MaPP CKAN Catalogue",
