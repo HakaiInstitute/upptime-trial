@@ -22,19 +22,19 @@
     "url": "https://hakai.org/hakaiinstitutelogin/\"",
     "icon": "https://icons.duckduckgo.com/ip3/hakai.org.ico",
     "slug": "hakai-org-wordpress-login-page",
-    "status": "degraded",
+    "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.12%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 3150,
-    "timeWeek": 1129,
-    "timeMonth": 578,
-    "timeYear": 305,
+    "time": 285,
+    "timeDay": 3326,
+    "timeWeek": 1412,
+    "timeMonth": 675,
+    "timeYear": 314,
     "dailyMinutesDown": {
-      "2024-07-02": 0
+      "2024-07-02": 13
     }
   },
   {
