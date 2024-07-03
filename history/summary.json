@@ -24,9 +24,9 @@
     "slug": "hakai-org-wordpress-login-page",
     "status": "degraded",
     "uptime": "99.96%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "96.79%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
     "time": 428,
     "timeDay": 4642,
@@ -34,7 +34,8 @@
     "timeMonth": 2031,
     "timeYear": 492,
     "dailyMinutesDown": {
-      "2024-07-02": 32
+      "2024-07-03": 10,
+      "2024-07-02": 36
     }
   },
   {
