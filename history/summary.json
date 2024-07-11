@@ -155,36 +155,40 @@
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 734,
-    "timeWeek": 911,
-    "timeMonth": 1689,
-    "timeYear": 890,
-    "dailyMinutesDown": {}
+    "time": 861,
+    "timeDay": 1270,
+    "timeWeek": 1023,
+    "timeMonth": 1693,
+    "timeYear": 892,
+    "dailyMinutesDown": {
+      "2024-07-11": 0
+    }
   },
   {
     "name": "ICO Production Detecting Observable Runtime Errors",
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production-detecting-observable-runtime-errors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 517,
-    "timeDay": 475,
-    "timeWeek": 510,
-    "timeMonth": 524,
-    "timeYear": 528,
-    "dailyMinutesDown": {}
+    "time": 516,
+    "timeDay": 273,
+    "timeWeek": 455,
+    "timeMonth": 509,
+    "timeYear": 526,
+    "dailyMinutesDown": {
+      "2024-07-11": 0
+    }
   },
   {
     "name": "Hakai CKAN Catalogue",
