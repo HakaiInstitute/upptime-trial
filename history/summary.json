@@ -315,18 +315,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hakaiinstitute.github.io.ico",
     "slug": "hakai-metadata-entry-form-region-page",
     "status": "up",
-    "uptime": "13.20%",
-    "uptimeDay": "13.20%",
-    "uptimeWeek": "13.20%",
-    "uptimeMonth": "13.20%",
-    "uptimeYear": "13.20%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 72,
     "timeDay": 72,
     "timeWeek": 72,
     "timeMonth": 72,
     "timeYear": 72,
-    "dailyMinutesDown": {
-      "2024-08-01": 3
-    }
+    "dailyMinutesDown": {}
   }
 ]
