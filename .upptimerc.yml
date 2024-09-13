@@ -84,6 +84,13 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+  - name: Hakai Plausible Instance
+    url: https://plausible.server.hakai.app/
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+      - steviewanders
+
 assignees: # Users to assign downtime issues (optional)
   - steviewanders
 
