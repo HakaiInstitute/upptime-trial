@@ -332,19 +332,19 @@
     "url": "https://plausible.server.hakai.app/",
     "icon": "https://icons.duckduckgo.com/ip3/plausible.server.hakai.app.ico",
     "slug": "hakai-plausible-instance",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.03%",
     "uptimeDay": "0.03%",
     "uptimeWeek": "0.03%",
     "uptimeMonth": "0.03%",
     "uptimeYear": "0.03%",
-    "time": 9601,
-    "timeDay": 9601,
-    "timeWeek": 9601,
-    "timeMonth": 9601,
-    "timeYear": 9601,
+    "time": 8325,
+    "timeDay": 8325,
+    "timeWeek": 8325,
+    "timeMonth": 8325,
+    "timeYear": 8325,
     "dailyMinutesDown": {
-      "2024-09-14": 1033,
+      "2024-09-14": 1043,
       "2024-09-13": 185
     }
   }
