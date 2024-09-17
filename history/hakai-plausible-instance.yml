@@ -1,7 +1,7 @@
 url: https://plausible.server.hakai.app/
-status: degraded
+status: down
 code: 502
-responseTime: 6309
-lastUpdated: 2024-09-17T02:34:26.255Z
+responseTime: 167
+lastUpdated: 2024-09-17T02:40:59.313Z
 startTime: 2024-09-13T20:55:02.248Z
 generator: Upptime <https://github.com/upptime/upptime>
