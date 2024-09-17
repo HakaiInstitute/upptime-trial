@@ -332,7 +332,7 @@
     "url": "https://plausible.server.hakai.app/",
     "icon": "https://icons.duckduckgo.com/ip3/plausible.server.hakai.app.ico",
     "slug": "hakai-plausible-instance",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.01%",
@@ -344,7 +344,7 @@
     "timeMonth": 7847,
     "timeYear": 7847,
     "dailyMinutesDown": {
-      "2024-09-17": 459,
+      "2024-09-17": 466,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
