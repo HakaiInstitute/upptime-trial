@@ -84,12 +84,14 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
-  - name: Hakai Plausible Instance
-    url: https://plausible.server.hakai.app/
-    maxResponseTime: 5000 # 5 seconds
-    assignees: # Users to assign downtime issues (optional)
-      - fostermh
-      - steviewanders
+# Repeated downtime due to corrupt WAL file on Postgres
+# TODO: Needs to be shut down and this entry removed
+  # - name: Hakai Plausible Instance
+  #   url: https://plausible.server.hakai.app/
+  #   maxResponseTime: 5000 # 5 seconds
+  #   assignees: # Users to assign downtime issues (optional)
+  #     - fostermh
+  #     - steviewanders
 
 assignees: # Users to assign downtime issues (optional)
   - steviewanders
