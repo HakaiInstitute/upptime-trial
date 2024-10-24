@@ -84,6 +84,20 @@ sites:
     assignees: # Users to assign downtime issues (optional)
       - fostermh
 
+
+  - name: Hakai CTD Map App
+    url: https://hakai-ctd-map.server.hakai.app/
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
+  # check the map is able to request data. if not, it's likely an expired token
+  - name: Hakai CTD Map Data
+    url: https://hakai-ctd-map.server.hakai.app/station/QUADRA/QU39
+    maxResponseTime: 5000 # 5 seconds
+    assignees: # Users to assign downtime issues (optional)
+      - fostermh
+
 # Repeated downtime due to corrupt WAL file on Postgres
 # TODO: Needs to be shut down and this entry removed
   - name: Hakai Plausible Instance
