@@ -353,18 +353,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hakai-ctd-map.server.hakai.app.ico",
     "slug": "hakai-ctd-map-data",
     "status": "down",
-    "uptime": "1.31%",
-    "uptimeDay": "1.31%",
-    "uptimeWeek": "1.31%",
-    "uptimeMonth": "1.31%",
-    "uptimeYear": "1.31%",
+    "uptime": "0.42%",
+    "uptimeDay": "0.42%",
+    "uptimeWeek": "0.42%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "0.42%",
     "time": 73,
     "timeDay": 73,
     "timeWeek": 73,
     "timeMonth": 73,
     "timeYear": 73,
     "dailyMinutesDown": {
-      "2024-10-24": 0
+      "2024-10-24": 1
     }
   },
   {
