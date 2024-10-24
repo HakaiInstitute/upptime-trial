@@ -335,18 +335,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hakai-ctd-map.server.hakai.app.ico",
     "slug": "hakai-ctd-map-app",
     "status": "down",
-    "uptime": "80.75%",
-    "uptimeDay": "80.75%",
-    "uptimeWeek": "80.75%",
-    "uptimeMonth": "80.75%",
-    "uptimeYear": "80.75%",
+    "uptime": "21.67%",
+    "uptimeDay": "21.67%",
+    "uptimeWeek": "21.67%",
+    "uptimeMonth": "21.67%",
+    "uptimeYear": "21.67%",
     "time": 261,
     "timeDay": 261,
     "timeWeek": 261,
     "timeMonth": 261,
     "timeYear": 261,
     "dailyMinutesDown": {
-      "2024-10-24": 1
+      "2024-10-24": 10
     }
   },
   {
@@ -354,19 +354,19 @@
     "url": "https://hakai-ctd-map.server.hakai.app/station/QUADRA/QU39",
     "icon": "https://icons.duckduckgo.com/ip3/hakai-ctd-map.server.hakai.app.ico",
     "slug": "hakai-ctd-map-data",
-    "status": "degraded",
+    "status": "down",
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 9261,
-    "timeDay": 9261,
-    "timeWeek": 9261,
-    "timeMonth": 9261,
-    "timeYear": 9261,
+    "time": 6182,
+    "timeDay": 6182,
+    "timeWeek": 6182,
+    "timeMonth": 6182,
+    "timeYear": 6182,
     "dailyMinutesDown": {
-      "2024-10-24": 4
+      "2024-10-24": 13
     }
   },
   {
@@ -378,7 +378,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.89%",
+    "uptimeMonth": "89.90%",
     "uptimeYear": "0.00%",
     "time": 4307,
     "timeDay": 216,
