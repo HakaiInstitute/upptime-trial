@@ -1,7 +1,7 @@
 url: https://hakai-ctd-map.server.hakai.app/station/QUADRA/QU39
-status: degraded
+status: down
 code: 502
-responseTime: 18449
-lastUpdated: 2024-10-24T16:02:17.159Z
+responseTime: 23
+lastUpdated: 2024-10-24T16:11:53.448Z
 startTime: 2024-10-24T15:59:04.854Z
 generator: Upptime <https://github.com/upptime/upptime>
