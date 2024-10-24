@@ -334,19 +334,19 @@
     "url": "https://hakai-ctd-map.server.hakai.app/",
     "icon": "https://icons.duckduckgo.com/ip3/hakai-ctd-map.server.hakai.app.ico",
     "slug": "hakai-ctd-map-app",
-    "status": "degraded",
-    "uptime": "5.25%",
-    "uptimeDay": "5.25%",
-    "uptimeWeek": "5.25%",
-    "uptimeMonth": "5.25%",
-    "uptimeYear": "5.25%",
-    "time": 6366,
-    "timeDay": 6366,
-    "timeWeek": 6366,
-    "timeMonth": 6366,
-    "timeYear": 6366,
+    "status": "down",
+    "uptime": "4.70%",
+    "uptimeDay": "4.70%",
+    "uptimeWeek": "4.70%",
+    "uptimeMonth": "4.70%",
+    "uptimeYear": "4.70%",
+    "time": 4814,
+    "timeDay": 4814,
+    "timeWeek": 4814,
+    "timeMonth": 4814,
+    "timeYear": 4814,
     "dailyMinutesDown": {
-      "2024-10-24": 52
+      "2024-10-24": 58
     }
   },
   {
@@ -366,7 +366,7 @@
     "timeMonth": 6182,
     "timeYear": 6182,
     "dailyMinutesDown": {
-      "2024-10-24": 54
+      "2024-10-24": 61
     }
   },
   {
@@ -378,7 +378,7 @@
     "uptime": "0.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "89.94%",
+    "uptimeMonth": "89.95%",
     "uptimeYear": "0.00%",
     "time": 4307,
     "timeDay": 216,
