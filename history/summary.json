@@ -165,9 +165,9 @@
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -176,16 +176,18 @@
     "timeWeek": 542,
     "timeMonth": 447,
     "timeYear": 684,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   },
   {
     "name": "ICO Production Detecting Observable Runtime Errors",
     "url": "https://ico.hakai.org/",
     "icon": "https://icons.duckduckgo.com/ip3/ico.hakai.org.ico",
     "slug": "ico-production-detecting-observable-runtime-errors",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -194,7 +196,9 @@
     "timeWeek": 109,
     "timeMonth": 88,
     "timeYear": 250,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-25": 0
+    }
   },
   {
     "name": "Hakai CKAN Catalogue",
@@ -203,9 +207,9 @@
     "slug": "hakai-ckan-catalogue",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 1208,
     "timeDay": 287,
@@ -213,7 +217,6 @@
     "timeMonth": 390,
     "timeYear": 1085,
     "dailyMinutesDown": {
-      "2025-02-25": 7,
       "2025-01-02": 27,
       "2024-09-27": 18,
       "2024-05-09": 18,
@@ -377,11 +380,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/plausible.server.hakai.app.ico",
     "slug": "hakai-plausible-instance",
     "status": "up",
-    "uptime": "91.11%",
+    "uptime": "91.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.97%",
-    "uptimeYear": "91.11%",
+    "uptimeYear": "91.12%",
     "time": 1799,
     "timeDay": 473,
     "timeWeek": 376,
