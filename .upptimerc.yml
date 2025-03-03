@@ -23,14 +23,6 @@ sites:
     url: https://www.hakaimagazine.com/hakaimagazinelogin/
     maxResponseTime: 5000 # 5 seconds
 
-  - name: CIOOS Pacific Homepage
-    url: https://cioospacific.ca/
-    maxResponseTime: 5000 # 5 seconds
-
-  - name: CIOOS Pacific Wordpress Login Page
-    url: https://cioospacific.ca/wp-admin/
-    maxResponseTime: 5000 # 5 seconds
-
   - name: Marine Heatwaves Production
     url: https://hakaiinstitute.github.io/ssta_images/dist/
     maxResponseTime: 5000 # 5 seconds
@@ -42,10 +34,6 @@ sites:
   - name: ICO Production
     url: https://ico.hakai.org/
     maxResponseTime: 5000 # 5 seconds
-
-  - name: ICO Production Detecting Observable Runtime Errors
-    url: https://ico.hakai.org/
-    __dangerous__body_down: "RuntimeError"
 
   - name: Hakai CKAN Catalogue
     url: https://catalogue.hakai.org/
