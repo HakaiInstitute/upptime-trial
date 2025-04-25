@@ -63,7 +63,7 @@ sites:
     url: https://algaeexplorer.ca/
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
-      - steviewanders
+      - fostermh
 
   - name: Hakai Metadata Entry Form Region Page
     url: https://hakaiinstitute.github.io/hakai-metadata-entry-form/#/en/region-select
@@ -93,10 +93,9 @@ sites:
     maxResponseTime: 5000 # 5 seconds
     assignees: # Users to assign downtime issues (optional)
       - fostermh
-      - steviewanders
 
 assignees: # Users to assign downtime issues (optional)
-  - steviewanders
+  - fostermh
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
