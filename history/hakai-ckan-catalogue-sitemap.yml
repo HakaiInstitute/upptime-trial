@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/sitemap/sitemap-1.xml
-status: down
-code: 502
-responseTime: 159
-lastUpdated: 2025-07-19T06:59:13.331Z
+status: degraded
+code: 200
+responseTime: 14449
+lastUpdated: 2025-07-19T07:45:58.187Z
 startTime: 2022-10-27T17:43:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
