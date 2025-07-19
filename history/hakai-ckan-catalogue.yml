@@ -1,7 +1,7 @@
 url: https://catalogue.hakai.org/
-status: degraded
-code: 200
-responseTime: 16843
-lastUpdated: 2025-07-19T01:47:49.120Z
+status: down
+code: 502
+responseTime: 60
+lastUpdated: 2025-07-19T03:07:57.628Z
 startTime: 2022-10-27T17:10:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
