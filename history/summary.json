@@ -92,9 +92,9 @@
     "url": "https://hakaiinstitute.github.io/ssta_images/dist/",
     "icon": "https://icons.duckduckgo.com/ip3/hakaiinstitute.github.io.ico",
     "slug": "marine-heatwaves-production",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -104,6 +104,7 @@
     "timeMonth": 98,
     "timeYear": 102,
     "dailyMinutesDown": {
+      "2025-08-25": 0,
       "2025-03-20": 25
     }
   },
@@ -112,7 +113,7 @@
     "url": "https://hakaiinstitute.github.io/ssta_images/dist/",
     "icon": "https://icons.duckduckgo.com/ip3/hakaiinstitute.github.io.ico",
     "slug": "marine-heatwaves-production-detecting-observable-runtime-errors",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
