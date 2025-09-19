@@ -15,21 +15,21 @@ sites:
   #   # body: '{ "log": $WP_UPTIME_LOGIN_TEST_USERNAME, "pwd": $WP_UPTIME_LOGIN_TEST_PASSWORD, "wp-submit": "Log In", "redirect_to": "https://wordpress-675610-2219525.cloudwaysapps.com/wp-admin" }'
   #   maxResponseTime: 5000 # 5 seconds
 
-  - name: Hakai Magazine Homepage
-    url: https://www.hakaimagazine.com/
-    maxResponseTime: 5000 # 5 seconds
+  # - name: Hakai Magazine Homepage
+  #   url: https://www.hakaimagazine.com/
+  #   maxResponseTime: 5000 # 5 seconds
 
-  - name: Hakai Magazine Wordpress Login Page
-    url: https://www.hakaimagazine.com/hakaimagazinelogin/
-    maxResponseTime: 5000 # 5 seconds
+  # - name: Hakai Magazine Wordpress Login Page
+  #   url: https://www.hakaimagazine.com/hakaimagazinelogin/
+  #   maxResponseTime: 5000 # 5 seconds
 
-  - name: Marine Heatwaves Production
-    url: https://hakaiinstitute.github.io/ssta_images/dist/
-    maxResponseTime: 5000 # 5 seconds
+  # - name: Marine Heatwaves Production
+  #   url: https://hakaiinstitute.github.io/ssta_images/dist/
+  #   maxResponseTime: 5000 # 5 seconds
 
-  - name: Marine Heatwaves Production Detecting Observable Runtime Errors
-    url: https://hakaiinstitute.github.io/ssta_images/dist/
-    __dangerous__body_down: "RuntimeError"
+  # - name: Marine Heatwaves Production Detecting Observable Runtime Errors
+  #   url: https://hakaiinstitute.github.io/ssta_images/dist/
+  #   __dangerous__body_down: "RuntimeError"
 
   # - name: ICO Production
   #   url: https://ico.hakai.org/
@@ -51,13 +51,13 @@ sites:
   #   url: https://catalogue.hakai.org/erddap/index.html
   #   maxResponseTime: 5000 # 5 seconds
 
-  - name: MaPP CKAN Catalogue
-    url: https://metadata.mappocean.org/
-    maxResponseTime: 5000 # 5 seconds
-    headers:
-      - "Authorization: Basic $MAPP_UPTIME_CKAN_BASIC_AUTH"
-    assignees: # Users to assign downtime issues (optional)
-      - fostermh
+  # - name: MaPP CKAN Catalogue
+  #   url: https://metadata.mappocean.org/
+  #   maxResponseTime: 5000 # 5 seconds
+  #   headers:
+  #     - "Authorization: Basic $MAPP_UPTIME_CKAN_BASIC_AUTH"
+  #   assignees: # Users to assign downtime issues (optional)
+  #     - fostermh
 
   # - name: Algae Explorer Public Website
   #   url: https://algaeexplorer.ca/
@@ -73,18 +73,18 @@ sites:
   #     - fostermh
 
 
-  - name: Hakai CTD Map App
-    url: https://hakai-ctd-map.server.hakai.app/
-    maxResponseTime: 5000 # 5 seconds
-    assignees: # Users to assign downtime issues (optional)
-      - fostermh
+  # - name: Hakai CTD Map App
+  #   url: https://hakai-ctd-map.server.hakai.app/
+  #   maxResponseTime: 5000 # 5 seconds
+  #   assignees: # Users to assign downtime issues (optional)
+  #     - fostermh
 
-  # check the map is able to request data. if not, it's likely an expired token
-  - name: Hakai CTD Map Data
-    url: https://hakai-ctd-map.server.hakai.app/station/QUADRA/QU39
-    maxResponseTime: 5000 # 5 seconds
-    assignees: # Users to assign downtime issues (optional)
-      - fostermh
+  # # check the map is able to request data. if not, it's likely an expired token
+  # - name: Hakai CTD Map Data
+  #   url: https://hakai-ctd-map.server.hakai.app/station/QUADRA/QU39
+  #   maxResponseTime: 5000 # 5 seconds
+  #   assignees: # Users to assign downtime issues (optional)
+  #     - fostermh
 
 # Repeated downtime due to corrupt WAL file on Postgres
 # TODO: Needs to be shut down and this entry removed
